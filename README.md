@@ -1,5 +1,6 @@
 Topologi
-<img width="1776" height="867" alt="image" src="https://github.com/user-attachments/assets/155ff018-2784-4b4b-a0ed-3ea05c59de2c" />
+<img width="1934" height="958" alt="image" src="https://github.com/user-attachments/assets/8505537f-ee52-4278-9bf9-135bbb567ee7" />
+
 Tabel VLSM dan CIRD
 | Ruang | Host | Subnet Mask | Prefix | Network | Broadcast | IP Range | Gateway |
 |---|---|---|---|---|---|---|---|
